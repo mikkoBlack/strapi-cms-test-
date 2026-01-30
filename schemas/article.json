@@ -1,0 +1,8 @@
+{
+  "name": "article",
+  "fields": {
+    "title": "string!",
+    "content": "richtext",
+    "publishedAt": "datetime"
+  }
+}
